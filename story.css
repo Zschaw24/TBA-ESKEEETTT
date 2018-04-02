@@ -1,0 +1,22 @@
+
+div{
+  display:none;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 18pt;
+  border:6px solid red;
+  font-weight: bold;
+}
+a:hover{
+font-weight: bold;
+color:darkblue;
+}
+
+#inv_box{
+  display:flex;
+  color:white;
+  background:black;
+  position:fixed;
+  bottom: 50px;
+  right: 50px;
+  border:6px solid red;
+}
